@@ -96,7 +96,7 @@ pulse-module-extractor/
 
 ## Demo Video
 
-Watch the walkthrough video: [Your Demo Link Here]([https://your-video-link.com](https://drive.google.com/file/d/1XWKnslFRcYfYjESIjuczhio0gMPgWG1q/view?usp=sharing))
+Watch the walkthrough video: (https://drive.google.com/file/d/1XWKnslFRcYfYjESIjuczhio0gMPgWG1q/view?usp=sharing)
 
 ---
 
