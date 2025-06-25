@@ -1,0 +1,128 @@
+{
+  "https://knowledge.hubspot.com/\t": [],
+  "https://knowledge.hubspot.com/pt/": [
+    {
+      "module": "Pesquisar na Central de conhecimento",
+      "Description": "",
+      "Submodules": {
+        "Artigos mais bem avaliados": ""
+      }
+    },
+    {
+      "module": "Conta e configura\u00e7\u00e3o",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "IA",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Automa\u00e7\u00e3o",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Com\u00e9rcio",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "CRM",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Comece a usar agora",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Ferramentas de marketing",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Mensagens",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Parceiros",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Relat\u00f3rios e dados",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Ferramentas de vendas",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Ferramentas de servi\u00e7os",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Conte\u00fado web",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Espa\u00e7os de trabalho",
+      "Description": "",
+      "Submodules": {}
+    }
+  ],
+  "https://knowledge.hubspot.com/pt/workflows/choose-your-workflow-actions": [
+    {
+      "module": "Escolha suas a\u00e7\u00f5es de fluxo de trabalho",
+      "Description": " Ultima atualiza\u00e7\u00e3o:20 de Junho de 2025 Depoiscriando seu fluxo de trabalhoedefinindo gatilhos de inscri\u00e7\u00e3o, escolha a\u00e7\u00f5es paraadicione ao seu fluxo de trabalho.\u00a0Asa\u00e7\u00f5ess\u00e3o fun\u00e7\u00f5es que ser\u00e3o executadas pelo fluxo de trabalho para\u00a0registros inscritos. Por exemplo, voc\u00ea pode adicionar a\u00e7\u00f5es para enviar e-mails, criar novos registros, gerenciar as assinaturas dos seus contatos e muito mais. Voc\u00ea tamb\u00e9m podeusar a\u00e7\u00f5es de fluxo de trabalho de aplicativos conectados. A maioria das a\u00e7\u00f5es de fluxo de trabalho, comoCriar tarefaeEnviar e-mail, pode ser salva sem configurar os detalhes. Voc\u00ea pode adicionar suas a\u00e7\u00f5es primeiro como espa\u00e7os reservados. Em seguida, preencha suas a\u00e7\u00f5es de espa\u00e7o reservado antes de ativar o fluxo de trabalho. Aprender mais sobrea\u00e7\u00f5es de espa\u00e7o reservado. Observa\u00e7\u00e3o:as a\u00e7\u00f5es dispon\u00edveis para voc\u00ea dependem da sua assinatura. A\u00e7\u00f5es bloqueadaslockedexigem atualiza\u00e7\u00e3o de conta para serem usadas.",
+      "Submodules": {
+        "Atraso": " Use atrasos para adicionar uma pausa entre as a\u00e7\u00f5es no fluxo de trabalho. Saiba mais sobre comousar atrasos com seus fluxos de trabalho. Atrase os registros inscritos at\u00e9 uma data espec\u00edfica. Use esse atraso quando quiser que uma a\u00e7\u00e3o seja executada apenas em uma determinada data. Adie os registros inscritos at\u00e9 uma data ou data e hora espec\u00edficas em uma propriedade de data ou data e hora. Use esse atraso quando quiser que uma a\u00e7\u00e3o seja executada apenas na data com base em uma propriedade de data espec\u00edfica. Atrase os registros inscritos at\u00e9 um evento espec\u00edfico ocorrer. Por exemplo, atrase um contato at\u00e9 ele visitar uma p\u00e1gina ou preencher um formul\u00e1rio. Atrase os registros inscritos por uma quantidade espec\u00edfica de dias, horas e minutos. Os registros inscritos aguardar\u00e3o no atraso antes de passarem para a pr\u00f3xima a\u00e7\u00e3o. Por exemplo, quando um contato envia um formul\u00e1rio, voc\u00ea pode definir um atraso de um dia antes de enviar um e-mail de marketing automatizado. Se voc\u00ea tiver um fluxo de trabalho baseado em contato deCentralizar em uma dataouCentralizar em uma propriedade de data, os atrasos ser\u00e3o relativos \u00e0 data ou \u00e0 propriedade de data selecionada. Aprender comoagendar a\u00e7\u00f5es em um fluxo de trabalho baseado em contato para execu\u00e7\u00e3o em uma data e hora espec\u00edficas. Atrase os registros inscritos at\u00e9 um dia espec\u00edfico da semana. Atrase os registros inscritos at\u00e9 uma hora espec\u00edfica do dia. Por exemplo, ao usar um fluxo de trabalho para enviar uma s\u00e9rie de e-mails promocionais, voc\u00ea pode querer que alguns sejam enviados apenas em ter\u00e7a-feira. Voc\u00ea pode adicionar um atraso antes da a\u00e7\u00e3oEnviar e-mailpara pausar os contatos at\u00e9 ter\u00e7a-feira.",
+        "Ramifica\u00e7\u00f5es": " Use as ramifica\u00e7\u00f5es para direcionar o registro inscrito para caminhos de fluxo de trabalho espec\u00edficos com base nos crit\u00e9rios definidos. Saiba mais sobre comousar ramifica\u00e7\u00f5es em seus fluxos de trabalho.",
+        "Ir para fluxo de trabalho": " Inscrever o registro no fluxo de trabalho atual em um novo fluxo de trabalho selecionado, enquanto permanece no fluxo de trabalho original. Quando um registro alcan\u00e7a a a\u00e7\u00e3oIr para fluxo de trabalho: Voc\u00ea somente pode inscrever um registro em um fluxo de trabalho do mesmo tipo. Por exemplo, os neg\u00f3cios s\u00f3 podem ser inscritos em fluxos de trabalho baseados em neg\u00f3cios.\u00a0O registron\u00e3oser\u00e1 inscrito no fluxo de trabalho selecionado se:",
+        "Ir para a\u00e7\u00e3o": " Conecte ramifica\u00e7\u00f5es se/ent\u00e3o com esta a\u00e7\u00e3o. Isso simplifica o processo de cria\u00e7\u00e3o de fluxos de trabalho ao consolidar ramifica\u00e7\u00f5es se/ent\u00e3o.As a\u00e7\u00f5esIr para outra a\u00e7\u00e3osomente podem ser adicionadas a ramifica\u00e7\u00f5es se/ent\u00e3o e voc\u00ea pode selecionar apenas a\u00e7\u00f5es em outras ramifica\u00e7\u00f5es se/ent\u00e3o. Isso evita loops de fluxo de trabalho. As a\u00e7\u00f5es que n\u00e3o est\u00e3o dispon\u00edveis para sele\u00e7\u00e3o ficar\u00e3o esmaecidas.Saiba mais sobre como usar oIr para outra a\u00e7\u00e3oA\u00e7\u00e3o.",
+        "Comunica\u00e7\u00f5es": " Os usu\u00e1rios doService HubProfessionaleEnterprisepodem usar essa a\u00e7\u00e3o para enviar e-mails automatizados quando um ticket for recebido ou fechado. Saiba como enviar ume-mail quando um ticket for recebido ou fechado. Observa\u00e7\u00e3o:se voc\u00ea tiver acesso aoService HubStartereSales HubProfessional+ouMarketing HubStarter+, voc\u00ea ver\u00e1 e-mails na se\u00e7\u00e3o de a\u00e7\u00e3oEnviar e-mailna ferramenta Fluxos de trabalho. No entanto, esses e-mails n\u00e3o est\u00e3o dispon\u00edveis para uso, e a a\u00e7\u00e3o s\u00f3 pode ser usada para enviar e-mails automatizados quandoum ticket for recebido ou fechado. Inscreva automaticamente os contatos no Breeze Agent para prospec\u00e7\u00e3o. O HubSpot oferece suporte a um agente; portanto, haver\u00e1 uma op\u00e7\u00e3o chamadaAgente padr\u00e3o. Saiba mais sobrecomo usar o Breeze Agent para prospec\u00e7\u00e3o (BETA) Envie automaticamente mensagens do WhatsApp para o n\u00famero de telefone de um contato. Os contatos devem ter um n\u00famero v\u00e1lido na propriedade padr\u00e3o e aceitarem o recebimento de mensagens pelo WhatsApp. Voc\u00ea pode usar essa a\u00e7\u00e3o no fluxos de trabalho com base no contato e em todos os outros tipos de fluxo de trabalho. Aprender mais sobreconectando um canal do WhatsApp \u00e0 caixa de entrada de conversas. Envie automaticamente um SMS para o contato inscrito ou um tipo espec\u00edfico de contato associado ao registro inscrito.\u00a0Saiba mais sobre oenvio de mensagens SMS usando fluxos de trabalho. Voc\u00ea pode usar essa a\u00e7\u00e3o em fluxos de trabalho baseados em contatos e em outros tipos de fluxo de trabalho. Saiba mais sobre como usara\u00e7\u00f5es de fluxo de trabalho baseadas em contatos em outros tipos de fluxo de trabalho. Cancele automaticamente a inscri\u00e7\u00e3o de contatos da sequ\u00eancia em que est\u00e3o inscritos no momento.Aprender mais sobreautomatizando o cancelamento de registro de sequ\u00eancia usando fluxos de trabalho. Altere automaticamente a caixa de entrada e a atribui\u00e7\u00e3o de propriedade de uma conversa. Saiba mais sobre comoatribuir automaticamente um propriet\u00e1rio de conversa em um fluxo de trabalho.",
+        "CRM": " Utilize estas a\u00e7\u00f5es para criar, atualizar e gerenciar as propriedades dos registros inscritos. Voc\u00ea pode usar a\u00e7\u00f5es de gerenciamento de propriedades para os\u00a0registros dispon\u00edveis para sua assinatura: Se o acesso a uma propriedade foirestrito, tenha em mente o seguinte: Aprender mais sobrecriando registros com fluxos de trabalho. Essa a\u00e7\u00e3o est\u00e1 dispon\u00edvel apenas em fluxos de trabalho baseados em contatos. Os contatos podem ser restaurados em at\u00e9 90 dias ap\u00f3s a exclus\u00e3o. Saibacomo restaurar contatos exclu\u00eddos. Personalize o status da assinatura do contato inscrito. Voc\u00ea pode definir o status de ades\u00e3o para um canal espec\u00edfico, o tipo de assinatura, a base jur\u00eddica para se comunicar com o contato e a explica\u00e7\u00e3o para esse consentimento de comunica\u00e7\u00e3o. Saiba mais sobre comodefinir tipos de assinatura. Voc\u00ea pode usar essa a\u00e7\u00e3o em fluxos de trabalho baseados em contatos e em outros tipos de fluxo de trabalho. Saiba mais sobre como usara\u00e7\u00f5es de fluxo de trabalho baseadas em contatos em outros tipos de fluxo de trabalho.",
+        "IA": "",
+        "Marketing": "",
+        "Opera\u00e7\u00f5es de dados": " Formate e mantenha automaticamente seus dados do CRM. Por exemplo, voc\u00ea pode usar esta a\u00e7\u00e3o para colocar os nomes de contatos ou empresas em mai\u00fasculo, calcular valores ou estruturar suas propriedades de data. Lembre-se de que usar esta a\u00e7\u00e3o isoladamente n\u00e3o atualizar\u00e1 uma propriedade para o registro inscrito. Voc\u00ea precisar\u00e1 usar esta a\u00e7\u00e3o em combina\u00e7\u00e3o com a a\u00e7\u00e3oEditar registropara atualizar as propriedades dos registros inscritos. Aprender mais sobreformatando dados com fluxos de trabalho.",
+        "Aplicativos conectados": " Quando voc\u00eaconecta um aplicativo \u00e0 sua conta da HubSpot, o aplicativo pode incluir a\u00e7\u00f5es de fluxo de trabalho. Quando um aplicativo conectado fornece a\u00e7\u00f5es de fluxo de trabalho, essas a\u00e7\u00f5es ser\u00e3o listadas no nome da integra\u00e7\u00e3o. O HubSpot oferece suporte a determinadas a\u00e7\u00f5es de integra\u00e7\u00e3o, comoenviar uma notifica\u00e7\u00e3o do Slackouadicionar dados ao Google Planilhas. Os parceiros de integra\u00e7\u00e3o tamb\u00e9m podemcriar a\u00e7\u00f5es de extens\u00e3oque interagem com seus aplicativos. Saiba mais sobre acria\u00e7\u00e3o de pedidos de venda do NetSuite por meio de fluxos de trabalho baseados em neg\u00f3cios. Envie um modelo do Docusign ao registro de contato inscrito. Esta a\u00e7\u00e3o est\u00e1 dispon\u00edvel em fluxos de trabalho baseados em contatos, empresas e neg\u00f3cios. Saiba mais sobre como enviarmodelos do Docusign por meio de fluxos de trabalho. "
+      }
+    }
+  ],
+  "https://knowledge.hubspot.com/integrations/manage-your-notifications-in-google-chat": [
+    {
+      "module": "Manage notifications in Google Chat",
+      "Description": " Last updated:May 7, 2025 After you\u2019veconnected the Google Chat app to your HubSpot account, you can receive HubSpotuser notifications, conversations notifications, and call and note notifications as Google Chat messages. You must add the HubSpot app to the Google Chat space in order to receive notifications.",
+      "Submodules": {
+        "Add the HubSpot app to a Google Chat space": " You must add the HubSpot app to any Google Chat spaces to receive notifications in that space. To add the app: Please note:make sure youruser is mappedbetween HubSpot and Google Chat before adding the app.  You must repeat this process for each space you want to use with the Google Chat integration. If you're unable to add the HubSpot app to a Google Chat space or you're still not receiving messages to the Google Chat space, it's recommended to check the following permissions in your\u00a0Google Workspace settings:",
+        "Receive HubSpot notifications in Google Chat": " User notifications in HubSpot include mentions on records, form submissions, and task assignments and reminders. To receive HubSpot user notifications in Google Chat:  To stop user notifications from being sent to Google Chat: Afterinstalling the Google Chat app, you can select which Google Chat space new live chat conversations from HubSpot should be sent to:  After associating the Google Chat space with the inbox, you'll receive notifications for incoming live chats. You can also chat with visitors directly through the Google Chat thread.  ClickReply in Inboxto access the conversation in HubSpot. Or, if it's a live chat, you can reply via a Google Chat thread. The entire conversation will still be logged in the inbox. You can automate custom Google Chat notifications from your HubSpot account using workflows. To send a Google Chat notification with a workflow:    If the Google Chat space is renamed, this willnotaffect the workflow. Review how to connect HubSpot help desk to Google Chat to manage tickets and receive HubSpot notifications in Google Chat."
+      }
+    }
+  ],
+  "https://knowledge.hubspot.com/fi/workflows/choose-your-workflow-actions": [
+    {
+      "module": "Valitse ty\u00f6nkulku toimet",
+      "Description": " P\u00e4ivitetty viimeksi:20 kes\u00e4kuuta 2025 Kun oletluonut ty\u00f6nkulku jaasettanut rekister\u00f6inti k\u00e4ynnistimet, valitsety\u00f6nkulku lis\u00e4tt\u00e4v\u00e4ttoiminnot.Toiminnotovat toimintoja, jotka ty\u00f6nkulku suorittaa rekister\u00f6ityjen tietueiden osalta. Voit esimerkiksi lis\u00e4t\u00e4 toimintoja s\u00e4hk\u00f6postien l\u00e4hett\u00e4miseen, uusien tietueiden luomiseen, yhteystiedot hallintaan, tilaukset hallintaan ja paljon muuta. Voit my\u00f6sk\u00e4ytt\u00e4\u00e4 ty\u00f6nkulku toimintoja liitetyist\u00e4 sovellukset. Monet ty\u00f6nkulku toiminnot, kutenLuo teht\u00e4v\u00e4 jaL\u00e4het\u00e4 s\u00e4hk\u00f6posti,voidaan tallentaa ilman yksityiskohtien m\u00e4\u00e4ritt\u00e4mist\u00e4. Voit lis\u00e4t\u00e4 toiminnot ensin paikanpit\u00e4jiksi. T\u00e4yt\u00e4 sitten paikanvaraajatoiminnot ennen ty\u00f6nkulku k\u00e4ytt\u00f6\u00f6nottoa. Lis\u00e4tietojapaikanhaltijatoiminnoista. Huomaa:k\u00e4ytett\u00e4viss\u00e4si olevat toimet riippuvat tilaus. Lukitut toiminnotlockededellytt\u00e4v\u00e4t tili p\u00e4ivitt\u00e4mist\u00e4.",
+      "Submodules": {
+        "Viive": " K\u00e4yt\u00e4 viiveit\u00e4 lis\u00e4t\u00e4ksesi tauon ty\u00f6nkulku toimintojen v\u00e4lille. Lis\u00e4tietojaviiveiden k\u00e4ytt\u00e4misest\u00e4 ty\u00f6nkulut. Viive kirjatut tietueet tiettyyn p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n asti. K\u00e4yt\u00e4 t\u00e4t\u00e4 viive, kun haluat, ett\u00e4 toiminto suoritetaan vain tiettyn\u00e4 p\u00e4iv\u00e4n\u00e4. Viive kirjatut tietueet tiettyyn p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n tai p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n ja kellonaikaan p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4- tai ominaisuus. K\u00e4yt\u00e4 t\u00e4t\u00e4 viive, kun haluat, ett\u00e4 toiminto suoritetaan vain tiettyyn p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n tai ominaisuus perustuvana p\u00e4iv\u00e4n\u00e4. Viive kirjattuja tietueita, kunnes tietty tapahtuma tapahtuu. Voit esimerkiksi viive yhteystieto, kunnes h\u00e4n k\u00e4y sivulla tai t\u00e4ytt\u00e4\u00e4 lomake. Viive kirjattuja tietueita tietyn m\u00e4\u00e4r\u00e4 p\u00e4ivi\u00e4, tunteja ja minuutteja. Rekister\u00f6idyt tietueet odottavat viive aikana, ennen kuin ne siirtyv\u00e4t seuraavaan toimintoon. Kun yhteystieto esimerkiksi l\u00e4hett\u00e4\u00e4 lomake, voit asettaa yhden p\u00e4iv\u00e4n viive ennen automaattisen markkinointis\u00e4hk\u00f6posti l\u00e4hett\u00e4mist\u00e4. Jos sinulla onKeskity p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4ntaiKeskity p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ominaisuus -yhteystietopohjainenty\u00f6nkulku, viiveet ovat sen sijaan suhteessa valittuun p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4\u00e4n tai p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ominaisuus. Lue, miten voitajoittaa yhteystietopohjaisen ty\u00f6nkulku toiminnot suoritettaviksi tiettyn\u00e4 p\u00e4iv\u00e4n\u00e4 ja kellonaikana. Viive kirjattuja tietueita tiettyyn viikonp\u00e4iv\u00e4\u00e4n asti. Viive kirjattuja tietueita tiettyyn kellonaikaan asti. Jos esimerkiksi k\u00e4yt\u00e4t ty\u00f6nkulku l\u00e4hett\u00e4\u00e4ksesi sarjan myynninedist\u00e4miss\u00e4hk\u00f6posteja, voit haluta, ett\u00e4 tietyt s\u00e4hk\u00f6postit l\u00e4hetet\u00e4\u00e4n vain tiistaisin. Voit lis\u00e4t\u00e4 viive juuri ennens\u00e4hk\u00f6posti l\u00e4hetystoimintoa, jolloin viiv\u00e4stetyt yhteystiedot pys\u00e4ytet\u00e4\u00e4n tiistaihin asti.",
+        "Toimipisteet": " K\u00e4yt\u00e4 haaroja ohjaamaan tietue tiettyihin ty\u00f6nkulku polkuihin asetettujen kriteerien perusteella. Lis\u00e4tietojahaarojen k\u00e4yt\u00f6st\u00e4 ty\u00f6nkulut.",
+        "Siirry ty\u00f6nkulku": " Rekister\u00f6id\u00e4 nykyisess\u00e4 ty\u00f6nkulku oleva tietue uuteen valittuun ty\u00f6nkulku s\u00e4ilytt\u00e4en samalla alkuper\u00e4isen ty\u00f6nkulku. Kun tietue saavuttaaSiirry ty\u00f6nkulku -toiminnon: Voit rekister\u00f6id\u00e4 tietue vain samantyyppiseen ty\u00f6nkulku. Esimerkiksi kaupat voi kirjata vain kauppaan perustuviin ty\u00f6nkulut. tietueeikirjata valittuun ty\u00f6nkulku, jos:",
+        "Siirry toimintaan": " Yhdist\u00e4minen if/then-haarat t\u00e4h\u00e4n toimintoon. T\u00e4m\u00e4 virtaviivaistaa ty\u00f6nkulku rakentamisprosessia yhdist\u00e4m\u00e4ll\u00e4 if/then-haarat.Siirry toiseen toimintoon-toimintoja voi lis\u00e4t\u00e4 vain if/then-haaroihin, ja voit valita toimintoja vain muissa if/then-haaroissa. T\u00e4m\u00e4 est\u00e4\u00e4 ty\u00f6nkulku silmukoita. Toiminnot, joita ei voi valita, n\u00e4kyv\u00e4t harmaina.Lis\u00e4tietojaSiirry toiseen toimintoon-toiminnonk\u00e4yt\u00f6st\u00e4.",
+        "Viestint\u00e4": " Service HubProfessional-jaEnterprise-k\u00e4ytt\u00e4j\u00e4t voivat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa automaattisten s\u00e4hk\u00f6postiviestien l\u00e4hett\u00e4miseen, kun palvelupyynt\u00f6 vastaanotetaan tai suljetaan. Lue, miten l\u00e4het\u00e4ts\u00e4hk\u00f6posti, kun palvelupyynt\u00f6 vastaanotetaan tai suljetaan. Huomaa:jos sinulla on k\u00e4ytt\u00f6oikeusService Hub StarteriinjaSales Hub Professional+:aantaiMarketing Hub Starter+:aan, n\u00e4et s\u00e4hk\u00f6postit Ty\u00f6nkulutL\u00e4het\u00e4 s\u00e4hk\u00f6posti-osiossa. N\u00e4m\u00e4 s\u00e4hk\u00f6postit eiv\u00e4t kuitenkaan ole k\u00e4ytett\u00e4viss\u00e4, ja toimintoa voi k\u00e4ytt\u00e4\u00e4 vain automaattisten s\u00e4hk\u00f6postiviestien l\u00e4hett\u00e4miseen, kunpalvelupyynt\u00f6 vastaanotetaan tai suljetaan. rekister\u00f6id\u00e4 yhteystiedot automaattisesti prospektointiagentti. HubSpot tukee yht\u00e4 agenttia, joten k\u00e4yt\u00f6ss\u00e4 on yksi vaihtoehto nimell\u00e4Oletusagentti. Lis\u00e4tietojaprospektointiagentti k\u00e4yt\u00f6st\u00e4 (BETA) L\u00e4het\u00e4 WhatsApp-viestej\u00e4 automaattisesti yhteystieto Whatsapp-puhelinnumeroon. Yhteystiedot on oltava voimassa oleva numero ominaisuus ja heid\u00e4n on oltava valittuna vastaanottamaan WhatsApp-viestej\u00e4. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa sek\u00e4 yhteystietopohjaisissa ty\u00f6nkulut ett\u00e4 kaikissa muissa ty\u00f6nkulku. Lis\u00e4tietojaWhatsApp-kanavan liitt\u00e4misest\u00e4 saapuneet keskustelut. L\u00e4het\u00e4 automaattisesti tekstiviesti rekister\u00f6idylle yhteystieto tai tietyntyyppiselle yhteystieto, joka liittyy rekister\u00f6ityyn tietue. Lis\u00e4tietojatekstiviestien l\u00e4hett\u00e4misest\u00e4 ty\u00f6nkulut avulla . Voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa sek\u00e4 yhteystietopohjaisissa ty\u00f6nkulut ett\u00e4 muissa ty\u00f6nkulku. Lis\u00e4tietojayhteystietopohjaisten ty\u00f6nkulkuk\u00e4ytt\u00e4misest\u00e4muissa ty\u00f6nkulku. Poistaa automaattisesti yhteystiedot rekister\u00f6innin siit\u00e4 sarja, johon he ovat t\u00e4ll\u00e4 hetkell\u00e4 rekister\u00f6ityneet.Lis\u00e4tietojasarja rekister\u00f6innin poistamisen automatisoinnista ty\u00f6nkulut avulla . Vaihda automaattisesti keskustelun saapuneet-kansio ja omistajuuden m\u00e4\u00e4ritys. Lis\u00e4tietojakeskustelun omistajan automaattisesta m\u00e4\u00e4ritt\u00e4misest\u00e4 ty\u00f6nkulku.",
+        "CRM": " N\u00e4iden toimintojen avulla voit luoda, p\u00e4ivitt\u00e4\u00e4 ja hallita kirjattujen tietueiden ominaisuuksia. Voit k\u00e4ytt\u00e4\u00e4 ominaisuus hallintatoimintoja tietueille, jotka ovat k\u00e4ytett\u00e4viss\u00e4 tilaus: Jos p\u00e4\u00e4sy\u00e4 ominaisuus onrajoitettu, muista seuraavat asiat: Lis\u00e4tietojatietueiden luomisesta ty\u00f6nkulut avulla . T\u00e4m\u00e4 toiminto on k\u00e4ytett\u00e4viss\u00e4 vain yhteystietopohjaisissa ty\u00f6nkulut. Yhteystiedot voidaan palauttaa 90 p\u00e4iv\u00e4n kuluessa poistamisesta. Lis\u00e4tietojapoistettujen yhteystiedot palauttamisesta . M\u00e4\u00e4rit\u00e4 rekister\u00f6idyn yhteystieto tilaus. Voit m\u00e4\u00e4ritt\u00e4\u00e4 tilaus tietylle kanavalle, tilaustyyppi, yhteystieto kanssa tapahtuvan viestinn\u00e4n lailliselle perustalle ja t\u00e4m\u00e4n viestint\u00e4suostumuksen selitykselle. Lis\u00e4tietojatilaus asettamisesta. Voit k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa sek\u00e4 yhteystietopohjaisissa ty\u00f6nkulut ett\u00e4 muissa ty\u00f6nkulku. Lis\u00e4tietojayhteystietopohjaisten ty\u00f6nkulkuk\u00e4ytt\u00e4misest\u00e4muissa ty\u00f6nkulku.",
+        "AI": "",
+        "Markkinointi": "",
+        "Data ops": " Muotoile ja yll\u00e4pid\u00e4 CRM automaattisesti. Voit esimerkiksi k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 toimintoa yhteystieto tai yritys nimien isojen alkukirjainten kirjoittamiseen, arvojen laskemiseen tai p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4ominaisuuksien j\u00e4sent\u00e4miseen. Muista, ett\u00e4 t\u00e4m\u00e4n toiminnon k\u00e4ytt\u00e4minen yksin\u00e4\u00e4n ei p\u00e4ivit\u00e4 ilmoitetun tietue ominaisuus. Sinun on k\u00e4ytett\u00e4v\u00e4 t\u00e4t\u00e4 toimintoa yhdess\u00e4Muokkaa tietue -toiminnonkanssa p\u00e4ivitt\u00e4\u00e4ksesi kirjattujen tietueiden ominaisuuksia. Lis\u00e4tietojatietojen muotoilusta ty\u00f6nkulut avulla .",
+        "Liitetyt sovellukset": " Kunyhdist\u00e4minen sovelluksen tili,sovellus voi sis\u00e4lt\u00e4\u00e4 ty\u00f6nkulku toimintoja. Kun liitetty sovellus tarjoaa ty\u00f6nkulku toimintoja, ne luetellaan sovelluksen nimen alla. HubSpot tukee tiettyj\u00e4 sovelluksen toimintoja, kutenSlack-ilmoituksen l\u00e4hett\u00e4mist\u00e4taitietojen lis\u00e4\u00e4mist\u00e4 Google Sheetsiin. Sovelluskumppanit voivat my\u00f6sluoda laajennustoimintoja, jotka ovat vuorovaikutuksessa heid\u00e4n sovelluksensa kanssa. Lis\u00e4tietojaNetSuite-myyntitilausten luomisesta kauppapohjaisten ty\u00f6nkulut avulla . mallipohja l\u00e4hett\u00e4minen rekister\u00f6idylle yhteystietotietue. T\u00e4m\u00e4 toiminto on k\u00e4ytett\u00e4viss\u00e4 yhteystieto, yritys ja kauppapohjaisissa ty\u00f6nkulut. Lis\u00e4tietojaDocusign-mallienl\u00e4hett\u00e4misest\u00e4ty\u00f6nkulut kautta . "
+      }
+    }
+  ]
+}

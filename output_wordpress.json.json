@@ -1,0 +1,71 @@
+{
+  "https://wordpress.org/documentation/": [
+    {
+      "module": "Documentation",
+      "Description": "",
+      "Submodules": {
+        "WordPress overview": " Learn about WordPress and its community. Are you new to WordPress? Learn how to get started now. A list of common WordPress questions from the community. Learn more about the WordPress project and its history.",
+        "Technical guides": " Learn how to install WordPress and keep it secure and healthy. Need a hand installing WordPress? This section will help you. Keep your site updated and ready with the articles in this section. Everything you need to know to protect your site, from password best practices to privacy.",
+        "Support guides": " Get to know how to publish with WordPress. Get to know the control center of your site. Learn how to create and publish your content. Learn how to manage your media files.",
+        "Customization": " Get the look and feel you want on your site. Learn how to give the look and feel you want to your site. Get information on the default themes that ship with WordPress. Learn about the Audio, Cover, File, Gallery, Image, Media & Text, and the Video blocks. Learn about the basic text blocks that make up the main content of your website. Learn about the various layout blocks, including Group, Row, Stack, Buttons, Columns, and more. Learn about all the included embed blocks, and how to configure them. Learn about Archives, Calendar, and the other blocks that are available to use as widgets. Learn about how to apply theme-specific blocks for your block themes and custom templates.",
+        "Get more help": " Support forums Ask questions in the support forums. Developers Check out the developer documentation. Content suggestions Report an error or change in the documentation issue tracker. Get involved Learn about the Documentation Team and how to contribute."
+      }
+    }
+  ],
+  "https://wordpress.org/themes/": [
+    {
+      "module": "Themes",
+      "Description": " Over 13,000 free themes to customize your WordPress site.",
+      "Submodules": {
+        "Layout": "",
+        "Features": "",
+        "Subjects": "",
+        "Twenty Twenty-Five": "",
+        "Hello Elementor": "",
+        "Twenty Twenty-Four": "",
+        "Astra": "",
+        "Twenty Twenty-Three": "",
+        "Kadence": "",
+        "Twenty Twenty-Two": "",
+        "Twenty Twenty-One": "",
+        "OceanWP": "",
+        "Hello Biz": "",
+        "Extendable": "",
+        "GeneratePress": "",
+        "Add your theme": " The WordPress theme directory is used by millions of WordPress users all over the world.Submit your themeto the official WordPress.org theme repository.",
+        "Create a theme": " Want to learn how to build a great theme? Read theTheme Developer Handbookto learn everything about WordPress theme development.",
+        "Stay up-to-date": " Trying to ensure a great experience for the theme authors and users, means that theme requirements change from time to time. Keep up with the latest changes by following theThemes Team blog."
+      }
+    }
+  ],
+  "https://wordpress.org/download/": [
+    {
+      "module": "Get WordPress",
+      "Description": " Everything you need to set up your site just the way you want it.",
+      "Submodules": {
+        "Download and install it yourself": " For anyone comfortable getting their own hosting and domain.",
+        "Howdy!": " Thanks for downloading WordPress You're an important part of the global community that has used, built, and transformed the platform into what it is today. Find out more ways you can contribute and make an impact on the future of the web. Get involved in WordPress\u2197\ufe0e Join a local WordPress meetup\u2197\ufe0e Attend a WordCamp\u2197\ufe0e Support WordPress and open source education\u2197\ufe0e Recommend PHP 7.4 or greater and MySQL version 8.0 or MariaDB version 10.6 or greater.",
+        "Set up with a hosting provider": " For anyone looking for the simplest way to start. Still not sure? Explore the WordPress Playground, a live demo environment right from your browser.Try WordPress\u2197",
+        "Powerful right out of the box": " WordPress combines simplicity for users and publishers with under-the-hood complexity for developers. Discover the features that come standard with WordPress, and extend what the platform can do with the thousands of plugins available. See all WordPress features\u2197",
+        "You've got WordPress. What's next?": " If you need help getting started, these resources can help you find your way.",
+        "Inspiration strikes anywhere": " Create and update content on the go with the WordPress app."
+      }
+    }
+  ],
+  "https://wordpress.org/download/source/": [
+    {
+      "module": "Source Code",
+      "Description": " If you\u2019d like to browse the WordPress source and inline documentation, there\u2019s aconvenient developer referenceand acode browser. You can also find guides forcontributing with Subversionandcontributing with Git. The built WordPress source,licensedunder the GNU General Public License version 2 (or later), can bebrowsed onlineor checked out locally with Subversion or Git: WordPress minifies core JavaScript files using UglifyJS and CSS using clean-css, all via theGruntJavaScript-based task runner. The development source that includes un-minified versions of these files, along with the build scripts, can bebrowsed onlineor checked out locally with Subversion or Git: The source code for any program binaries or minified external scripts that are included with WordPress can be freely obtained from oursources repository.",
+      "Submodules": {}
+    }
+  ],
+  "https://wordpress.org/documentation/category/dashboard/": [
+    {
+      "module": "Dashboard",
+      "Description": "",
+      "Submodules": {
+        "Get more help": " Support forums Ask questions in the support forums. Developers Check out the developer documentation. Content suggestions Report an error or change in the documentation issue tracker. Get involved Learn about the Documentation Team and how to contribute."
+      }
+    }
+  ]
+}

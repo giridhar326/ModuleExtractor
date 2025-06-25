@@ -1,0 +1,116 @@
+{
+  "https://www.chargebee.com/docs/2.0/": [
+    {
+      "module": "Welcome to Chargebee docs",
+      "Description": " Discover everything you need to master Chargebee \u00e2\u0080\u0094 guides, tutorials, and resources for every step of your journey.",
+      "Submodules": {}
+    },
+    {
+      "module": "Tools to Get Started",
+      "Description": " Start your integration with our No Code-Low Code solutions and more. No Code Low Code Developers",
+      "Submodules": {}
+    },
+    {
+      "module": "Chargebee's Product Suite",
+      "Description": " Get a comprehensive view of all the products offered by Chargebee and their key features.",
+      "Submodules": {}
+    },
+    {
+      "module": "Billing",
+      "Description": " Manage subscriptions, billing, and invoicing at scale.",
+      "Submodules": {}
+    },
+    {
+      "module": "Payments",
+      "Description": " Automate recurring payments for customers across the globe.",
+      "Submodules": {}
+    },
+    {
+      "module": "Receivables",
+      "Description": " Get paid faster with a proactive collection strategy.",
+      "Submodules": {}
+    },
+    {
+      "module": "RevRec",
+      "Description": " Unburden your finance team with automated and compliant revenue recognition.",
+      "Submodules": {}
+    },
+    {
+      "module": "Retention",
+      "Description": " Reduce churn and grow lifetime value with an experience your customers can\u00e2\u0080\u0099t resist.",
+      "Submodules": {}
+    },
+    {
+      "module": "Learn about Chargebeewith Videos",
+      "Description": " Learn all about Chargebee products with the help of our informative and engaging videos.",
+      "Submodules": {}
+    },
+    {
+      "module": "Chargebee 101 for Product Catalog 2.0",
+      "Description": "",
+      "Submodules": {}
+    },
+    {
+      "module": "Grow Faster with Integrations",
+      "Description": " Find the right apps that integrate and extend Chargebee to help your business grow faster. Tax Cloud ERP CRM CRM Finance Finance",
+      "Submodules": {}
+    },
+    {
+      "module": "What's New in Chargebee?",
+      "Description": " Find all the latest updates happening at Chargebee here.",
+      "Submodules": {}
+    },
+    {
+      "module": "Usage Based Billing",
+      "Description": " Track usage data for your products and services accurately in Chargebee Billing, and charge customers based on their actual consumption. Check out the latest User Interface(UI) and API related updates in Chargebee.",
+      "Submodules": {}
+    },
+    {
+      "module": "Can't find what you're looking for?",
+      "Description": " There are more ways to connect For your specific requirements Answers to common questions Copyright2025@Chargebee, Inc",
+      "Submodules": {}
+    }
+  ],
+  "https://www.chargebee.com/docs/2.0/hubspot.html": [
+    {
+      "module": "HubSpot",
+      "Description": " HubSpot CRM enables you to kickstart your sales process automatically by tracking customer interactions from a variety of sources such as email, social media, and more. This lightweight CRM gives you the latest  information on  deals won and lost, appointments scheduled, and contracts. Chargebee provides a seamless integration with HubSpot that helps you to:",
+      "Submodules": {
+        "Prerequisites": "",
+        "Types of Account": " You can configure the Chargebee - HubSpot integration both in Chargebee's test site as well as the Live site. We recommend you to first test the synchronization of data from Chargebee test site to atest accountin HubSpot CRM.",
+        "Object Mapping": " The following objects in HubSpot CRM are updated upon setting up this integration. Note In addition to syncing information from Chargebee to HubSpot, the integration also allows customer and subscription records in Chargebeeto be createdfrom within HubSpot.",
+        "Field Mapping": " Chargebee objects are mapped to some standard HubSpot objects. The below tables will give you a detailed mapping relationship between objects in Chargebee and HubSpot. The table below shows how properties in the contact object in HubSpot are mapped to fields in Chargebee: The stage that you have set up in . The subdomain name of the Chargebeesiteto which the customer belongs. For example, if your site ishttps://acmecompany.chargebee.comthen this property will\nhave the valueacmecompany. Subscription Information(Contact object in HubSpot and Subscription in Chargebee) Chargebee Order Information(Contact object in HubSpot and Orders in Chargebee) Note Chargebee Order Information property group is applicable only if you are using Shipping orders. Thecompany objecthas some custom properties synced from Chargebee. However, they're a legacy feature and it is recommended that they no longer be used to derive any useful information for company records. The subdomain name of the Chargebeesiteto which the customer belongs. For example, if your site ishttps://acmecompany.chargebee.comthen this property will\nhave the valueacmecompany.",
+        "Articles & FAQs": " Show more Was this article helpful? \u00c2\u00a9 Copyright2025, Chargebee Inc."
+      }
+    }
+  ],
+  "https://www.chargebee.com/docs/billing/2.0/hosted-capabilities/hosted-pages-features": [
+    {
+      "module": "Hosted Pages Features",
+      "Description": " Chargebee's hosted pages are customizable, secure pages that allow businesses to efficiently manage and collect subscription payments from their customers. These pages come with a variety of features to help you optimize your billing and revenue operations, including: Quantity restrictions: This feature allows you to limit the number of subscription items a customer can purchase. Facebook pixel tracking: This feature allows you to track customer behavior and activity on their hosted pages, providing valuable insights for marketing and optimization efforts. Google Analytics integration: This feature enables you to track key metrics and customer behavior on your hosted pages using Google Analytics, providing valuable insights for business optimization and growth. GTM (Google Tag Manager) integration: This feature allows you to quickly implement tracking and marketing tags on your hosted pages using Google Tag Manager, providing greater flexibility and control over your page's tracking and marketing efforts.",
+      "Submodules": {
+        "Articles & FAQs": " Was this article helpful? \u00c2\u00a9 Copyright2025, Chargebee Inc."
+      }
+    }
+  ],
+  "https://www.chargebee.com/docs/billing/1.0/getting-started/accessing_chargebee": [
+    {
+      "module": "Overview",
+      "Description": " Chargebee is a subscription billing and revenue management platform designed to simplify subscription management for businesses. Whether you're a SaaS company, an e-commerce store, a subscription box service, or any other business with recurring revenue, Chargebee can help you streamline billing, invoicing, and subscription management processes. With Chargebee, businesses can automate recurring billing, manage subscriptions, and gain insights into their revenue streams, all in one centralized platform.",
+      "Submodules": {}
+    },
+    {
+      "module": "Accessing Chargebee",
+      "Description": " Chargebee empowers you with a multitude of ways to interact with our platform, ensuring flexibility and convenience. Whether you prefer the intuitiveweb interface, require programmatic control through ourAPI, or seek real-time event notifications viawebhooks, we've got you covered. Moreover, Chargebee effortlessly collects subscription information from your customers through our securehosted payment pagesand the feature-richcustomer portal. It's a comprehensive ecosystem designed to streamline your subscription management and billing processes, putting the control where you need it most\u00e2\u0080\u0094right at your fingertips. Here's an overview of how this works:",
+      "Submodules": {
+        "1. Web Interface": " Our user-friendlyweb applicationempowers you to effortlessly create and fine-tune your billing information, grant team members access to customized roles, and much more. All you need to do is log in using your credentials, and you're just moments away from setting up your products and related configurations. It's the quickest, most hassle-free way to supercharge your billing processes with Chargebee. And remember, if you ever want to take it up a notch, you can seamlessly switch to Chargebee's powerful API for handling your recurring billing needs. Note Chargebee's web application runs seamlessly in modern browsers like Chrome, Safari, and Firefox, without the need for plugins or extensions. To ensure the best experience, we recommend using the latest or the last 2-3 versions of these browsers. Internet Explorer (IE) is not supported. If you experience any issues with the web app on a specific browser, pleasecontact our supportteam for assistance.",
+        "2. API": " Chargebee opens up a world of possibilities for your application through our HTTP-based, RESTful APIs. This robust interface enables seamless interaction with our system, granting you the flexibility to integrate and innovate like never before. If you're curious to explore the full potential of Chargebee's API, dive into our comprehensiveAPI documentationand discover the convenience of ourclient libraries.",
+        "3. Webhooks": " Webhooks are your window into the dynamic world of Chargebee, offering real-time notifications of critical events like subscription activations, renewals, successful payments, and more. By harnessing the power of webhooks, you empower your site or application to stay in sync with the latest happenings inside Chargebee, ensuring timely responses and seamless user experiences. Dive into our comprehensive guide to learn more aboutwebhooksand how to effortlessly configure them.",
+        "4. Hosted Payment Pages": " Chargebee's hosted payment pages not only prioritize the security of your customer's data but also offer a seamless and hassle-free subscription experience. ThesePCI-compliantpages are ready to use, ensuring that your business stays in line with stringent security standards effortlessly. You can customize them to perfectly match your business requirements without any need for development work. Say goodbye to complex setups and hello to a secure, tailored, and compliant solution that enhances both your business needs and your customers' experience.Learn moreabout the power of Chargebee's hosted pages today.",
+        "5. Customer Portal": " Chargebee's Customer Portal is a user-friendly, ready-to-use solution that puts the power in the hands of your customers. With it, they can effortlessly manage their subscriptions and billing information, reducing the volume of support requests your team receives for these common tasks. Plus, the best part is that it requires no development effort on your part. Your customers enjoy greater control and convenience, while your support team can focus on more complex issues. More on Customer Portalshere.",
+        "Articles & FAQs": " Show more Was this article helpful? \u00c2\u00a9 Copyright2025, Chargebee Inc."
+      }
+    }
+  ],
+  "https://www.chargebee.com/docs/billing/2.0/data-privacy-security/articles-and-faq": []
+}

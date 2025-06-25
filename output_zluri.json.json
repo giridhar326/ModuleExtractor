@@ -1,0 +1,50 @@
+{
+  "https://help.zluri.com/": [
+    {
+      "module": "Help Center",
+      "Description": " Explore our Help Center for quick answers, detailed guides, and troubleshooting tips\u2014all designed to help you get the most value out of Zluri and streamline your Identity Governance journey. New to Zluri? Start here to set up your account and configure your organization\u2019s settings Discover, monitor, and manage all SaaS applications across your organization View and manage the users in your organization Track SaaS spending, manage contract renewals, and right-size licenses based on usage Automate employee onboarding and offboarding using no-code workflows Automate app access for employees with self-service requests and approval workflows Learn how to stay audit-ready through fully automated access reviews Step-by-step instructions to connect your existing apps and systems with Zluri Learn how to set up and run no-code workflow automations to streamline IT operations Manage your account, organization, billing, and configure Zluri according to your preferences",
+      "Submodules": {
+        "Featured Articles": " Getting started with Zluri is quick and easy. Here's how Integrate Google Workspace with Zluri Integrate Azure AD with Zluri Automatically assign licenses, and add new employees to groups Integrate custom API endpoints with Zluri with our free, easy-to-use SDK Integrate Slack with Zluri Our team is ready to assist you with any technical issues or questions"
+      }
+    }
+  ],
+  "https://help.zluri.com/docs/access-reviews-module-user-guide": [
+    {
+      "module": "Access Reviews Overview",
+      "Description": " Manage app reviews, assign reviewers, and implement post-review actions Access Reviews is a critical process performed by InfoSec teams to ensure that the access granted to users for each application within an organization\u2019s tech stack is accurate, appropriate, and aligned with security and compliance policies. Zluri\u2019s\u00a0Access Reviews\u00a0module facilitates this process in a streamlined and efficient manner, providing centralized visibility into all applications that require review while offering detailed information necessary for these reviews. With Zluri, users can manage multiple app reviews efficiently, assign reviewers, and implement post-review actions.",
+      "Submodules": {
+        "Access Review Roles and Due Dates": "",
+        "Prerequisites": " Before initiating access reviews, ensure the following: Note: Next, a pop-up window will appear, displaying all available de-provisioning actions. Note: You also have the option to convert the action to a manual task by clicking\u00a0Convert to Manual Task\u00a0if integration is not desired. After configuring the necessary actions for access revocation or downgrade, click\u00a0Publish appPlaybook\u00a0to create the playbook. To view the published Deprovisioning Playbook, click\u00a0View Runs\u00a0or navigate to the\u00a0Runs\u00a0tab from the sidebar menu.",
+        "Access Review Process": " Complete the following\u00a0Set Up Certification. Note: Upon adding the applications, click\u00a0Next. Complete Setup\u00a0for the access certification. Note: The automated reminders will be sent 48 hours before the due dates to the associated users. Reviewers can access ongoing certifications and take actions on user access (approve, modify, revoke). Note: The reviewer and the certification owner can approve, remove or modify access by clicking on the actions icon for the users. Note: Note: App playbooks configured earlier will run automatically based on review actions. Note:",
+        "Additional Functionality": " Updated4 months ago"
+      }
+    }
+  ],
+  "https://help.zluri.com/docs/archived-transactions": [
+    {
+      "module": "Archived Transactions",
+      "Description": " This section lists the transactions which are not related to a SaaS product and will not be reflected in the dashboard.",
+      "Submodules": {
+        "Bulk assign or archive transactions": " You can select multiple transactions and click \u2018Assign Apps\u2019 or \u2018Archive\u2019.",
+        "Bulk Unassign or Archive Transactions": " Clicking the checkboxes on the left-hand side opens up the bulk options to unassign/archive transactions. Unassigning apps will remove the transactions from the recognised section and move them to the unrecognized section. Archiving transactions moves them to the archived section.",
+        "Unarchive Transactions": " To unarchive transactions, you will need to select one or many transactions & click \u2018Unarchive\u2019 in bulk actions. Updated9 months ago"
+      }
+    }
+  ],
+  "https://help.zluri.com/docs/http-request-with-callback-action": [
+    {
+      "module": "HTTP Request with Callback Action",
+      "Description": " This action helps users make anHTTP requestto an external service and send a configured callback request, using which we\u2019ll mark the action as completed or failed on Zluri\u2019s end. This action can be used for cases where users would like to trigger a workflow in a third-party application and mark the action as completed in Zluri once the workflow has completed in the third-party application.  The action has two steps: Step 1 - Configuring the HTTP request Step 2 - Configuring the callback URL for that action in the external application or service A callback URL unique to that specific action is automatically generated from Zluri\u2019s end that can be configured on the end application or service that the HTTP request is made to. You can copy the callback URL from Zluri\u2019s UI to the external service that you want to make the HTTP request to The callback URL is expected to be a POST request with the format being: Replace the text between the braces{{...}}with your execution ID. Zluri expects the \u201cstatus\u201d to be sent in the body of the callback request - Accepted values for the status field are \u201ccompleted\u201d and \u201cfailed\u201d. Zluri expects the \u201czluri_execution_id\u201d to be sent as a parameter in the callback request - This value will be auto-generated when the action is triggered from Zluri and sent as a parameter in the body of the HTTP request. Zluri will also require an \u201capi_key\u201d or \u201capi-key\u201d to be sent in the headers for authentication when making the callback request. You can contact your Zluri support representative to get the value of the API key for your organization. Once this action is configured on both Zluri and the external application or service, if you\u2019d like to test the callback request, you can make a test call to Zluri using the callback URL generated on the UI along with the status, the api_key, and a zluri_execution_id value of 11111111. If you receive a \u201c200 OK\u201d response when making the test call, that indicates that the test call is successful. If the action has failed from Zluri\u2019s end or the callback request is configured incorrectly, you can check the error or work with Zluri support to resolve any errors from Zluri\u2019s end and retry. On successful completion of the action, Zluri will change the status of the action from \u201cfailed\u201d or \u201cpending\u201d to \u201ccompleted\u201d on Zluri\u2019s logs. Updated8 months ago",
+      "Submodules": {}
+    }
+  ],
+  "https://help.zluri.com/docs/threat-and-risk-level-calculation": [
+    {
+      "module": "Threat and Risk Level Calculation",
+      "Description": " How Zluri calculates risk levels using factors like security incidents, compliance status, and security assessments",
+      "Submodules": {
+        "What is the difference between Risk and Threat?": " The \u2018Risk\u2019 level is a holistic metric determined by carefully assessing a set of essential parameters like security events, scopes shared, compliance information, security probes etc. The Risk level can also manually be overridden. \u2018Threat\u2019 level is determined based on the app's scopes and permissions to read and edit your data. Zluri provides you with a 360-degree view of security & compliance with each SaaS application you use in your organization. It considers the following factors while calculating the risk score: Based on the above-mentioned factors, zluri assigns a security score rating from 1 to 5, where 1 & 2 means low risk, 3 is medium risk & 4,5 means high risk. What actions can be taken based on the security scores? Actions can be taken based on the authorization status of the applications. A few scenarios are explained below. Updatedabout 2 months ago"
+      }
+    }
+  ]
+}
